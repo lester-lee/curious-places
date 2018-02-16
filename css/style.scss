@@ -1,0 +1,146 @@
+---
+---
+
+// NUMBERS
+$header-width: 200px;
+$posts-width: 500px;
+$nav-width: 50px;
+$top-bar-height: 30px;
+
+// COLOR SCHEME
+$background-color: #FBFEF9;
+//$main-color: #0C6291;
+$main-color: #242424;
+$secondary-color: #FF765E;
+$accent-color: #4c95d4;
+$accent-hover-color: #DB6551;
+$text-color: #110B11;
+
+// FONTS
+$heading-font: 'Merriweather';
+$body-font: 'Montserrat';
+
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $body-font;
+  color: $text-color;
+  margin: 0;
+}
+body::-webkit-scrollbar {
+  width: 5px;
+  background-color: $accent-color;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: $main-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font;
+  margin: 0;
+}
+
+h1 {
+  font-size: 1.7em;
+}
+
+.top-bar{
+  background: $main-color;
+  width: 100%;
+  height: $top-bar-height;
+  position: fixed;
+  top: 0;
+  z-index: 99;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: $accent-color;
+  &:hover{
+    color: $accent-hover-color;
+  }
+}
+
+p {
+  line-height: 1.35;
+  .caption{
+    font-size: .8em;
+    font-style: italic;
+  }
+  a {
+    color: $secondary-color;
+  }
+}
+
+.posts {
+  padding: 10px;
+}
+
+.excerpt{
+  margin: 10px 0;
+}
+
+header {
+  display: flex;
+  margin-top: $top-bar-height;
+  flex-direction: column;
+  padding: 10px;
+  img {
+    display: none;
+  }
+  ul {
+    display: flex;
+    li {
+      margin: 0px 5px;
+    }
+  }
+}
+
+@media (min-width: 700px) {
+  .posts {
+    width: $posts-width;
+    margin-left: calc(#{$header-width} + 20vw);
+    margin-top: $top-bar-height;
+    padding-top: 70px;
+    img {
+      max-width: 100%;
+      margin: 0 auto;
+    }
+  }
+  header {
+    position: fixed;
+    height: 95vh;
+    width: $header-width;
+    left: 18vw;
+    padding: 10vh 0;
+    text-align: center;
+    color: $text-color;
+    img {
+      display: block;
+      width: 100px;
+      height: 100px;
+      margin: 10px auto;
+    }
+    ul{
+      flex-flow: column;
+    }
+    p{
+      text-indent: 0;
+    }
+  }
+  #copyright {
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    font-size: .7em;
+    width: 100%;
+  }
+}

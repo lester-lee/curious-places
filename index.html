@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{% for post in paginator.posts %}
+<article class="excerpt">
+  <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+  {% if post.subtitle %}
+  <h4>{{ post.subtitle }}</h4>
+  {% endif %}
+  <hr />
+  <!-- excerpt code from https://github.com/daattali/beautiful-jekyll -->
+  {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+  {% assign excerpt_word_count = post.excerpt | number_of_words %}
+  {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+  <br />
+    <a href="{{ post.url | prepend: site.baseurl }}">Read&nbsp;More...</a>
+  {% endif %}
+</article>
+{% endfor %}

@@ -1,0 +1,19 @@
+name: Curious Places
+markdown: kramdown
+baseurl: "/curious-places"
+permalink: pretty
+# paginate: 10
+# excerpt_length: 150
+
+sass:
+  style: :expanded
+
+# plugins:
+#   - jekyll-paginate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME

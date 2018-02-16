@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+  <!-- <link rel="icon" href="{{ site.baseurl }}/images/logo.png"> -->
+  <link href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat" rel="stylesheet">
+  <title>{{ site.name }}{% if page.title %} | {{ page.title }}{% endif %}</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div class="top-bar"></div>
+  <header>
+    <h1>Curious Places</h1>
+    <img src="{{ site.baseurl }}/images/logo.png" alt="Project Logo">
+    <p>
+      lorem ipsum
+    </p>
+    <ul>
+      <li><a href="{{ site.baseurl }}/">Home<a></a></li>
+      <li><a href="{{ site.baseurl }}/about/">About</a></li>
+    </ul>
+    <span id="copyright">© Copyright 2017-{{ 'now' | date: "%Y" }}</span>
+    <!-- pagination code from https://jekyllrb.com/docs/pagination/ -->
+    {% if paginator.total_pages > 1 %}
+    <nav>
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; ←</a>
+      {% else %}
+        <span>&laquo; ←</span>
+      {% endif %}
+
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <em>{{ page }}</em>
+        {% elsif page == 1 %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+        {% else %}
+          <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">→ &raquo;</a>
+      {% else %}
+        <span>→ &raquo;</span>
+      {% endif %}
+    </nav>
+    {% endif %}
+  </header>
+  <div class="posts">
+      {{ content }}
+  </div>
+</body>
+
+</html>
