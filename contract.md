@@ -28,7 +28,14 @@ This is our team contract.
  * Using the information collected in determining roles, responsibilities and division of labor, develop a detailed plan for accomplishing the team's objectives for the next project deliverable (i.e. the group proposal)
 
 **Meeting Management**
-
+ * Meetings as frequently as needed, default to once a week
+ * Doodle polls or group messages fro scheduling
+ * Attend meetings that you have committed to but understanding extenuating circumstances
+ * Positive attitudes but everyone has bad days
+ * Stay focused, allow for positive and negative feedback
+ * Everyone contributes and pays attention, one at a time
+ * Majority rules for decision making, aim to compromise
+ 
 **Accountability Processes**
 
 **Rewards and Punishments**
