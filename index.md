@@ -1,5 +1,9 @@
 ---
 layout: default
-title: P‽n
 ---
-Welcome to the project page for **P‽n**. Currently under construction.
+## Welcome!
+Welcome to the project page for **P‽n**.
+
+![Logo]({{site.baseurl}}/images/logo-big.png)
+
+Currently under construction.

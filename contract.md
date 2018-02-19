@@ -7,7 +7,7 @@ title: Contract
 
 **Preliminary Information**
 
-![Preliminary Information](./contract_table.png)
+![Preliminary Information]({{ site.baseurl }}/images/contract_table.png)
 
 **Guiding Principles**
 1. Collaborate to resolve disagreements through compromise

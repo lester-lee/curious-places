@@ -2,5 +2,5 @@
 layout: default
 title: About
 ---
-## Curious Places
-This is the project site for Curious Places.
+## P‽n
+This is the project site for P‽n.
