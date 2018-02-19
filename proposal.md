@@ -21,6 +21,6 @@ The project we envision centers around location-based information and curiosity 
 
 The project will gradually learn what types of things you are interested in learning about, and begin suggesting  similar things for you to check out. It will be a learning experience that is personally driven. ■
 
-_This Was originally Lester Lee's proposal_
+_This was originally Lester Lee's proposal_
 
 1: [The Psychology of Curiosity - George Loewenstein](https://www.cmu.edu/dietrich/sds/docs/loewenstein/PsychofCuriosity.pdf)
