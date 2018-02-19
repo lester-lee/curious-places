@@ -8,9 +8,14 @@ This is our team contract.
 **Preliminary Information**
 
 **Guiding Principles**
+1. Collaborate to resolve disagreements through compromise
+2. Work towards innovation and creative strategies to success
+3. Positive attituted and optimistic outlooks, but be realistic too
+4. Everyone should be happy with the final product and the process to get there
 
-**Preliminary Focus and Purpose**
-
+**Preliminary Focus on Purpose**
+1. **Purpose:** Design a platform that will allow users to collaboratively share information based on location
+  
 **Dividing Up the Teamwork: Group Roles**
   1. Shared responsibility for leadership and power
   2. Rotation for roles/jobs that need to be done
@@ -43,6 +48,10 @@ This is our team contract.
 **Rewards and Punishments**
  1. Team works together to mitigate disruptions and disruptive behavior 
  2. Failure to meet commitments will result in poor final team feedback, but steps will be taken before then to make necessary adjustments accordingly
- 3. Check negatvie feedback to ensure it's not an outlier 
+ 3. Success will be rewarded with good final team feedback and a better product; internally, should be recognized by the team
+ 4. Check negatvie feedback to ensure it's not an outlier, but make strides towards minimizing issues
 
 **Follow-Up**
+  1. Should issues with the contract arise the group will discuss concerns
+  2. Bring up issues in the group char or during meetings
+  3. Majority rules for revisions
