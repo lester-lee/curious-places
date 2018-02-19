@@ -3,7 +3,7 @@ layout: default
 title: Contract
 ---
 ## Team Contract
-This is our team contract.
+
 
 **Preliminary Information**
 
@@ -22,7 +22,9 @@ This is our team contract.
   1. Shared responsibility for leadership and power
   2. Rotation for roles/jobs that need to be done
   3. Note-taker will keep minutes and share with the group after meetings
+  
        List of items already accomplished
+       
        List of items to be accomplished
     
     
