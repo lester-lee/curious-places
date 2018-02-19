@@ -70,3 +70,8 @@ title: Contract
   1. Should issues with the contract arise the group will discuss concerns
   2. Bring up issues in the group char or during meetings
   3. Majority rules for revisions
+
+
+*Sources*
+- [Iris's Course Page](https://sites.google.com/williams.edu/csci376-2018/assignments/team-contracts?authuser=0)
+- [MGMT 313 – Dr. Tyran's Developing a Team Contract](http://faculty.wwu.edu/tyrank/MGMT313/TeamContract313.htm)
