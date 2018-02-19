@@ -37,7 +37,7 @@ title: Contract
 
 **Developing a Team Plan**
 
-  **Group Proposal:**
+   Group Proposal:
   1. Create Logo
   2. Decide on Team Name
   3. Revise feedback from individual proposal
