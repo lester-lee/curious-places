@@ -15,6 +15,8 @@ This is our team contract.
 
 **Preliminary Focus on Purpose**
 1. **Purpose:** Design a platform that will allow users to collaboratively share information based on location
+2. **Team Goal:** Learn more about the process behind designing a good product and how to make products more accessible to general demographics
+3. Target people interested in learning more about the world
   
 **Dividing Up the Teamwork: Group Roles**
   1. Shared responsibility for leadership and power
@@ -26,11 +28,19 @@ This is our team contract.
     
 **Dividing Up the Task: The Divsion of Labor**
  1. Shared responsibility for labor
- 2. Creation of a task list (ongoing and consistently updated) and equal delegation based on skills
+ 2. Creation of a task list (ongoing and consistently updated) and equal delegation based on skills)
 
 
 **Developing a Team Plan**
- 1. Using the information collected in determining roles, responsibilities and division of labor, develop a detailed plan for accomplishing the team's objectives for the next project deliverable (i.e. the group proposal)
+  **Group Proposal:**
+  1. Create Logo
+  2. Decide on Team Name
+  3. Revise feedback from individual proposal
+  4. Create Github project page
+  5. Create page for contract
+  6. Create page for proposal
+  7. Add citations and source materials along with team information
+  8. Create links to project page on individual course pages
 
 **Meeting Management**
  1. Meetings as frequently as needed, default to once a week
