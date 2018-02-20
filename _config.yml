@@ -1,5 +1,7 @@
 name: P‽n
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 baseurl: "/curious-places"
 permalink: pretty
 # paginate: 10
