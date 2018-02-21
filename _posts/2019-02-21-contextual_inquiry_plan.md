@@ -2,12 +2,12 @@
 layout: post
 title: Contextual Inquiry Plan
 ---
-## Inteviewees:
+### Inteviewees:
 - Bird watching Williams student - Jared Bathen
 - Clark or WCMA visitor - TBD
 - Geocacher & wanderer - Wyatt Millstone
 
-## The Plan:
+### The Plan:
 Our design is primarily directed toward people who frequently either ask unanswered questions  or answer unasked questions about the world around them--this may include wanderers, students, and resident experts. We plan on observing people in places where they are inspired to be more curious than normal, as well as during their daily routines to see what types of questions pop up.
 
 Our three targets for this contextual inquiry are an outdoorsy Williams student, a museum visitor, and a geocacher. Our Williams student is already known; he is a frequent hiker and member of the Williams Fishing Club. He is also an amateur birdwatcher and generally explores the outdoors when possible. For the museum visitor, we plan on visiting either the Clark or WCMA this coming Sunday and interviewing someone there. Finally, our geocacher is also known and also enjoys wandering around in general. We have scheduled a meeting with him for Friday, Feb 23.
