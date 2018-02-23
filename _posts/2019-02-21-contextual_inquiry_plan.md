@@ -3,9 +3,9 @@ layout: post
 title: Contextual Inquiry Plan
 ---
 ### Inteviewees:
-- Bird watching Williams student - Jared Bathen
+- Bird watching Williams student - JB
 - Clark or WCMA visitor - TBD
-- Geocacher & wanderer - Wyatt Millstone
+- Geocacher & wanderer - WM
 
 ### The Plan:
 Our design is primarily directed toward people who frequently either ask unanswered questions  or answer unasked questions about the world around them--this may include wanderers, students, and resident experts. We plan on observing people in places where they are inspired to be more curious than normal, as well as during their daily routines to see what types of questions pop up.
