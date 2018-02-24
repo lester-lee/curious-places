@@ -2,6 +2,7 @@
 layout: default
 title: Contextual Inquiry | WM
 ---
+### Contextual Inquiry: WM
 On February 23, we conducted a contextual inquiry with WM, a senior at Williams College. WM is a geocacher and self-described “wanderer,” and we took this opportunity to observe both his wandering and his (reenacted) geocaching on a walk around campus.
 
 Our first conversation took place in upstairs Paresky, where we fleshed out some details of what geocaching is. Essentially, a geocacher is given a set of coordinates that is accurate to about 20-50 ft in radius and some details about accessibility, and they are tasked with finding a “cache” of items that could be hidden within any number of containers. WM described his own experiences with man-made rocks, fake sprinkler heads, and magnetized bolts, explaining that the most common hiding places tend to be underneath benches and in trees, depending on the environment. Additionally, when presented with the concept for P‽n, WM expressed that such an app would likely improve his geocaching or wandering experiences, since he was occasionally curious about things he came across but found it difficult to track down answers to his questions. This opinion was given with the caveat that a phone app may actually detract from his experience instead if he were to be bombarded with notifications, suggesting that perhaps a smartwatch might be better suited to his purposes. However, he also mentioned that he did not find the need to Google things often.
