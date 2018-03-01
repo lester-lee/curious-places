@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Contextual Inquiry | WM
 ---
 ### Contextual Inquiry: WM
