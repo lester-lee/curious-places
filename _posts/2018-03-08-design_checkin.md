@@ -45,19 +45,19 @@ This design is a desktop application meant for detailed reviewing of Pins and ex
 
 #### Task 1: Hold Anonymous Discussions
 The user can view nearby Pins, as well as Pins that the user has submitted. Each Pin is associated with a thread of comments that the user can reply to. The identity of each user can be revealed depending on each user’s discretion.
-![Task Image]({{site.baseurl}}/images/design_review/lester_task1.png])
+![Task Image]({{site.baseurl}}/images/design_review/lester_task1.png)
 
 #### Task 2: Find Motivation to go Outdoors
 The user can browse nearby Pins that interest them. Additionally, our design can keep track of which Pins the user looks at and when, and then begin to suggest Pins that we think the user would want to view in person. Users can also view and submit curated tours of Pins that other users can follow.
-![Task Image]({{site.baseurl}}/images/design_review/lester_task2.png])
+![Task Image]({{site.baseurl}}/images/design_review/lester_task2.png)
 
 #### Task 3: Share Educational Information
 The user can provide more detailed explanations of Pins with the luxuries of a desktop application, such as a keyboard and bigger screen real estate. The user will also have access to more resources than when they are out and about. For example, the user might have a textbook on architecture with fun facts that they might want to upload so that people who visit the Pin will see this information.
-![Task Image]({{site.baseurl}}/images/design_review/lester_task3.png])
+![Task Image]({{site.baseurl}}/images/design_review/lester_task3.png)
 
 #### Task 4: Share Personal Creations
 The user can share creations that were made with the resources of home. The user will still be able to Pin their creations to where they want, but they also have the freedom to take their time perfecting their work. Users will also be able to view other creations, as well as any comments on their own.
-![Task Image]({{site.baseurl}}/images/design_review/lester_task4.png])
+![Task Image]({{site.baseurl}}/images/design_review/lester_task4.png)
 
 
 
