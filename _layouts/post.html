@@ -7,5 +7,5 @@ layout: default
   <h3>{{ page.subtitle }}</h3>
   {% endif %}
   <hr /><br />
-  {{ content }}
+  {{ content | markdownify }}
 </article>

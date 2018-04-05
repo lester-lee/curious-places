@@ -48,7 +48,7 @@ h1 {
 }
 
 img {
-  max-width: 100%;
+  max-width: 75%;
 }
 
 .top-bar{
@@ -56,7 +56,7 @@ img {
   width: 100%;
   height: $top-bar-height;
   position: fixed;
-  top: 0;
+  bottom: 0;
   z-index: 99;
 }
 
@@ -94,7 +94,7 @@ p {
 
 header {
   display: flex;
-  margin-top: $top-bar-height;
+  margin-bottom: $top-bar-height;
   flex-direction: column;
   padding: 10px;
   img {
@@ -112,7 +112,7 @@ header {
   .posts {
     width: $posts-width;
     margin-left: calc(#{$header-width} + 20vw);
-    margin-top: $top-bar-height;
+    margin-bottom: $top-bar-height;
     padding-top: 70px;
     img {
       max-width: 100%;

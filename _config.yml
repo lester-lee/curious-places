@@ -4,6 +4,7 @@ kramdown:
   parse_block_html: true
 baseurl: "/curious-places"
 permalink: pretty
+future: true
 # paginate: 10
 # excerpt_length: 150
 
