@@ -3,7 +3,7 @@ layout: post
 title: Paper Prototype
 ---
 ### Overview
-<a href="{{ site.baseurl }}/images/paper_prototype/1.JPG"><img src="{{ site.baseurl }}/images/paper_prototype/1.JPG" alt="Paper prototype image"></a>
+<a href="{{ site.baseurl }}/images/paper_prototype/1.JPG"><img src="{{ site.baseurl }}/images/paper_prototype/1.jpg" alt="Paper prototype image"></a>
 
 Opening screen. The blue triangle represents current position. The overall background is a map of the area the user is currently in. Pins are visible to indicate other user activity.
 <img src="{{ site.baseurl }}/images/paper_prototype/2.JPG" alt="Paper prototype image">
