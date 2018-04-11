@@ -3,8 +3,8 @@ layout: post
 title: Heuristic Evaluation
 ---
 Here is an overview of our paper prototype. It is meant to be a mobile phone design.
-<a href="{{ site.baseurl }}/images/paper_prototype/1.JPG"><img src="{{ site.baseurl }}/images/paper_prototype/1.jpg" alt="Paper prototype image"></a>
-[Link]({{ site.baseurl }}/images/paper_prototype/1.JPG)
+<a href="{{ site.baseurl }}/images/paper_prototype/1.jpg"><img src="{{ site.baseurl }}/images/paper_prototype/1.jpg" alt="Paper prototype image"></a>
+[Link]({{ site.baseurl }}/images/paper_prototype/1.jpg)
 
 
 Karl faciliated Stephanie and Joyce's heuristic evaluation of our paper prototype. Here are the evaluations and links to larger images:
