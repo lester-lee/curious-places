@@ -2,7 +2,7 @@
 layout: post
 title: Paper Prototype
 ---
-### Overview
+## Overview
 This is an overview of all the parts of our paper prototype. It is meant to be a mobile phone design.
 <a href="{{ site.baseurl }}/images/paper_prototype/overview.png"><img src="{{ site.baseurl }}/images/paper_prototype/overview.png" alt="Paper prototype image"></a>
 [Here is a link to a larger version.]({{ site.baseurl }}/images/paper_prototype/overview.png)
@@ -10,7 +10,7 @@ This is an overview of all the parts of our paper prototype. It is meant to be a
 Opening screen. The blue triangle represents current position. The overall background is a map of the area the user is currently in. Pins are visible to indicate other user activity.
 <img src="{{ site.baseurl }}/images/paper_prototype/2.JPG" alt="Paper prototype image">
 
-#### Task 1: Asking a Question
+### Task 1: Asking a Question
 Clicking on a location creates a tentative pin at that location.
 <img src="{{ site.baseurl }}/images/paper_prototype/3.JPG" alt="Paper prototype image">
 
@@ -53,7 +53,7 @@ Clicking the + allows a user to create a custom group for this pin and future pi
 Clicking the PIN button creates and posts the pin.
 <img src="{{ site.baseurl }}/images/paper_prototype/13.JPG" alt="Paper prototype image">
 
-#### Task2: Answering a Question
+### Task 2: Answering a Question
 Clicking on a pin produces the post attached to it. This pin’s status is marked as ‘Answered.’
 <img src="{{ site.baseurl }}/images/paper_prototype/14.JPG" alt="Paper prototype image">
 
@@ -78,7 +78,7 @@ In this case, this post has no responses when the Responses button is clicked.
 Again, clicking on the TAGS button produces the tags associated with this post.
 <img src="{{ site.baseurl }}/images/paper_prototype/20.JPG" alt="Paper prototype image">
 
-#### Other Functionality
+### Other Functionality
 Clicking Settings will allow a user to modify their default radius and privacy settings, which are discussed in Task 1.
 <img src="{{ site.baseurl }}/images/paper_prototype/21a.JPG" alt="Paper prototype image">
 
