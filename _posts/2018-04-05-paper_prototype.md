@@ -3,7 +3,9 @@ layout: post
 title: Paper Prototype
 ---
 ### Overview
-<a href="{{ site.baseurl }}/images/paper_prototype/1.JPG"><img src="{{ site.baseurl }}/images/paper_prototype/1.jpg" alt="Paper prototype image"></a>
+This is an overview of all the parts of our paper prototype. It is meant to be a mobile phone design.
+<a href="{{ site.baseurl }}/images/paper_prototype/overview.png"><img src="{{ site.baseurl }}/images/paper_prototype/overview.png" alt="Paper prototype image"></a>
+[Here is a link to a larger version.]({{ site.baseurl }}/images/paper_prototype/overview.png)
 
 Opening screen. The blue triangle represents current position. The overall background is a map of the area the user is currently in. Pins are visible to indicate other user activity.
 <img src="{{ site.baseurl }}/images/paper_prototype/2.JPG" alt="Paper prototype image">
@@ -29,6 +31,12 @@ Clicking the paperclip allows the user to upload other media, including photos, 
 
 The files are uploaded. Clicking the X next to each file removes that file from the post, and the X on the upload box returns the user to the text box.
 <img src="{{ site.baseurl }}/images/paper_prototype/8.JPG" alt="Paper prototype image">
+
+We have now added a delete confirmation pop-up when the x to delete an attachment is pressed.
+<img src="{{ site.baseurl }}/images/paper_prototype/8a.JPG" alt="Paper prototype image">
+
+This pop-up shows up when a delete operation is confirmed.
+<img src="{{ site.baseurl }}/images/paper_prototype/8b.JPG" alt="Paper prototype image">
 
 Clicking the SAVE button allows the user to save a pin at a location for later editing.
 <img src="{{ site.baseurl }}/images/paper_prototype/9.JPG" alt="Paper prototype image">
@@ -72,4 +80,25 @@ Again, clicking on the TAGS button produces the tags associated with this post.
 
 #### Other Functionality
 Clicking Settings will allow a user to modify their default radius and privacy settings, which are discussed in Task 1.
-<img src="{{ site.baseurl }}/images/paper_prototype/21.JPG" alt="Paper prototype image">
+<img src="{{ site.baseurl }}/images/paper_prototype/21a.JPG" alt="Paper prototype image">
+
+Hints and tips have been added and accessed by clicking the ? button.
+<img src="{{ site.baseurl }}/images/paper_prototype/22.JPG" alt="Paper prototype image">
+
+This is the user profile page that is shown when the user profile button is pressed.
+<img src="{{ site.baseurl }}/images/paper_prototype/23.JPG" alt="Paper prototype image">
+
+This is the Social page where a user can add and search for friends on the platform.
+<img src="{{ site.baseurl }}/images/paper_prototype/24.JPG" alt="Paper prototype image">
+
+This is the friend list page where a user can see a list of all of their friends on the platform.
+<img src="{{ site.baseurl }}/images/paper_prototype/25.JPG" alt="Paper prototype image">
+
+This is the Pins Saved list where a user can see a list of all of the pins that they have saved.
+<img src="{{ site.baseurl }}/images/paper_prototype/26.JPG" alt="Paper prototype image">
+
+This is the Pins Created page. This is where the user can see all of their created Pins.
+<img src="{{ site.baseurl }}/images/paper_prototype/27.JPG" alt="Paper prototype image">
+
+This is the help page which can be accessed from the main screen.
+<img src="{{ site.baseurl }}/images/paper_prototype/28.JPG" alt="Paper prototype image">
