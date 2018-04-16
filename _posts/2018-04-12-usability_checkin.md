@@ -56,7 +56,7 @@ On the page where the user can add friends to the platform, the user did not kno
 ### Incident 5, Positive
 On the main map screen the user had a positive experience. The user felt that the screen was well laid out and easily understood what all of the different elements accomplished. In particular the user felt that the button in the bottom right corner served as a good way to access the user profile page.
 
-![Incident 4]({{ site.baseurl }}/images/usability/incident4.JPG)
+![Incident 5]({{ site.baseurl }}/images/paper_prototype/2.JPG)
 
 ## Revised Paper Prototype
 [Here is a link to our revised paper prototype.]({{ site.baseurl }}/2018/04/05/paper_prototype/)

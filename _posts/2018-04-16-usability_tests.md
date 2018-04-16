@@ -36,44 +36,62 @@ On the page where the user can add friends to the platform, the user did not kno
 ### Positive
 On the main map screen the user had a positive experience. The user felt that the screen was well laid out and easily understood what all of the different elements accomplished. In particular the user felt that the button in the bottom right corner served as a good way to access the user profile page.
 
-![Incident 4]({{ site.baseurl }}/images/usability/incident4.JPG)
+<img src="{{ site.baseurl }}/images/paper_prototype/2.JPG" alt="Paper prototype image">
 
 ### Positive
 Use of back buttons to navigate out of windows is intuitive.
+<img src="{{ site.baseurl }}/images/paper_prototype/4.JPG" alt="Paper prototype image">
 
 ### Positive
 “Upload” screen is clear about what the user intends to upload.
+<img src="{{ site.baseurl }}/images/paper_prototype/7.JPG" alt="Paper prototype image">
 
 ### Positive
 “Profile” screen engaged users with the app, encouraged customization (Note: will need more conversation about anonymity)
+<img src="{{ site.baseurl }}/images/paper_prototype/23.JPG" alt="Paper prototype image">
 
 ### Severity 3
 Users created blank pins and then were unsure about how to add content after.
 Revision: Added alert box.
+<img src="{{ site.baseurl }}/images/paper_prototype/3.JPG" alt="Paper prototype image">
+![Revision Image]({{ site.baseurl }}/images/usability_review/r1.jpg)
 
 ### Severity 3
 User edited a pin but assumed their changes autosaved.
 Revision: Added alert box.
+<img src="{{ site.baseurl }}/images/paper_prototype/4.JPG" alt="Paper prototype image">
+![Revision Image]({{ site.baseurl }}/images/usability_review/rw.JPG)
 
 ### Severity 3
 Users were confused about the functions of “Pin to Map” and “Save for Later” buttons.
 Revision: Will move “Save” button to separate it from the “Pin” button. Will make the “Pin” button more obvious.
+<img src="{{ site.baseurl }}/images/paper_prototype/4.JPG" alt="Paper prototype image">
 
 ### Severity 2
 User deleted photo when attempting to leave the “Upload” window (confusion about “X” button).
 Revision: Added "Deleted" alert.
+<img src="{{ site.baseurl }}/images/paper_prototype/8.JPG" alt="Paper prototype image">
+![Revision Image]({{ site.baseurl }}/images/usability_review/r3.jpg)
 
 ### Severity 1
 Not enough detail about “View” button in Profile (user unsure about what it did).
 Revision: Changed button label.
+<img src="{{ site.baseurl }}/images/paper_prototype/23.JPG" alt="Paper prototype image">
+![Revision Image]({{ site.baseurl }}/images/usability_review/r4.jpg)
+
 
 ### Severity 1
 User was unsure where text box was (due to other buttons in the corners).
-Revision: Changed layout of box and buttons, added placeholder text.
+Revision: Will change layout of box and buttons and add placeholder text.
+<img src="{{ site.baseurl }}/images/paper_prototype/4.JPG" alt="Paper prototype image">
+
 
 ### Severity 1
 Users were unsure if media was still attached after leaving “Upload” window.
 Revision: Kept uploaded media on the screen.
+<img src="{{ site.baseurl }}/images/paper_prototype/7.JPG" alt="Paper prototype image">
+![Revision Image]({{ site.baseurl }}/images/usability_review/r5.jpg)
+
 
 ## Revised Paper Prototype
 [Here is a link to our revised paper prototype.]({{ site.baseurl }}/2018/04/05/paper_prototype/)
