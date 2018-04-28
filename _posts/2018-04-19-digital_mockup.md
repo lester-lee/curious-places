@@ -11,7 +11,7 @@ Opening screen. The blue arrow represents current position. The overall backgrou
 ![Home Screen]({{ site.baseurl }}/images/digital_mockup/Home Screen.png)
 
 ## Task 1: Asking a Question
-Tapping on the button in the lower right corner opens a text box, where the user can write their post. Clicking the X will exit the box.
+Tapping on the button in the lower right corner opens a text box, where the user can write their post. 
 
 ![]({{ site.baseurl }}/images/digital_mockup/Create a Pin.png)
 
@@ -22,7 +22,7 @@ Clicking the TAGS button allows a user to add relevant tags to their post.
 Clicking the ATTACH button allows the user to upload other media, including photos, video, and sound bites. Media can be attached either by looking through items saved on the device or by capturing content immediately from the app.
 ![]({{ site.baseurl }}/images/digital_mockup/Attach 1.png)
 
-The files are uploaded. Clicking the X next to each file removes that file from the post, and the X on the upload box returns the user to the text box.
+The files are uploaded. Clicking the X next to each file removes that file from the post, and the BACK button on the upload box returns the user to the text box.
 
 ![]({{ site.baseurl }}/images/digital_mockup/Attach 3.png)
 
