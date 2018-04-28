@@ -15,56 +15,18 @@
 <body>
 
   <nav>
-    <a href="/"><img src="{{site.baseurl}}/images/logo.png" alt="PIN logo"></a>
+    <a href="{{site.baseurl}}/" id="nav-logo"><span>PIN</span> <img src="{{site.baseurl}}/images/logo.png" alt="PIN logo"></a>
     <ul>
-      <li><a href="#overview">Overview</a></li>
-      <li><a href="#video">Video</a></li>
-      <li><a href="#team">Team</a></li>
-      <li><a href="#archive">Archive</a></li>
+      <li><a href="#Overview">Overview</a></li>
+      <li><a href="#Video">Video</a></li>
+      <li><a href="#Team">Team</a></li>
+      <li><a href="{{site.baseurl}}/posts/">Archive</a></li>
     </ul>
   </nav>
 
-  <header class="landing-logo">
-    <div class="slogan">
-      <h1>PIN</h1>
-      <p>Who knows what where?</p>
-    </div>
-  </header>
+  {{ content }}
 
-  <section id="Overview">
-    <h2>Overview</h2> Have questions? Answers? <br /> While it is possible to jot down a note about a cool thing you see in the wild, sometimes it can be hard to even know what to jot down. It should be easy to both articulate questions you want to ask and get answers
-    to them. By taking advantage of other people’s knowledge, we can always be actively learning.
-    <h3>Our solution?</h3> <br /> A mobile platform that centers around location-based information and curiosity satisfaction. The platform will allow users to collaboratively share information, either by asking or answering questions, based on specific locations.
-  </section>
-  <section id="Video">
-    <h2>Video</h2>
-  </section>
-  <section id="Team">
-    <h2>Team</h2>
-    <ul id="team-members">
-      <li class="team-member">
-        <img src="{{site.baseurl}}/images/river.jpg" alt="Karl Bocher Profile">
-        <h3 class="team-name">Karl Bocher</h3>
-        <span class="team-role">Designer</span>
-        <span class="team-desc">Lorem ipusm dolor amet.</span>
-        <span class="team-contact">xx1@williams.edu</span>
-      </li>
-      <li class="team-member">
-        <img src="{{site.baseurl}}/images/river.jpg" alt="Lester Lee Profile">
-        <h3 class="team-name">Lester Lee</h3>
-        <span class="team-role">Designer</span>
-        <span class="team-desc">Lorem ipusm dolor amet.</span>
-        <span class="team-contact">xx1@williams.edu</span>
-      </li>
-      <li class="team-member">
-        <img src="{{site.baseurl}}/images/river.jpg" alt="Alyssa Wang Profile">
-        <h3 class="team-name">Alyssa Wang</h3>
-        <span class="team-role">Designer</span>
-        <span class="team-desc">Lorem ipusm dolor amet.</span>
-        <span class="team-contact">xx1@williams.edu</span>
-      </li>
-    </ul>
-  </section>
+  <footer>© 2017 - {{ site.time | date: "%Y" }}</footer>
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="{{site.baseurl}}/js/custom_scripts.js"></script>
