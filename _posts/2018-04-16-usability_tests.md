@@ -9,7 +9,7 @@ The structure of the three usability tests remained the same. The user was given
 
 We added to and elaborated on our initial descriptions, since users seemed unsure of what the app was designed for. We also added help screens and back buttons, since our main issue was that users found themselves stuck and confused about the purpose of their task. We got better at conducting usability tests!
 
-## Results
+<h2 id="incidents">Incidents</h2>
 ### Pin Placement: Severity 1
 When the user was on the posting page they did not realize that they could move the pin that they had placed simply by clicking outside of the pin entry window. This is an issue as we had decided that we would allow users to move their placed pin by tapping outside of this window and then dragging the pin on the map. This issue has been resolved by adding a small pop up that appears outside the main text entry window alerting the user to the fact that they can move the pin if they so wish.
 
@@ -98,7 +98,7 @@ Revision: Kept uploaded media on the screen.
 ## Revised Paper Prototype
 [Here is a link to our revised paper prototype.]({{ site.baseurl }}/2018/04/05/paper_prototype/)
 
-<h2 id="test-results">Revisions</h2>
+<h2 id="test-results">Results</h2>
 Throughout the testing process we learned several things. A primary lesson was that we had no help system, and the user had nowhere to turn when they weren’t sure what they were supposed to do. We also learned that our labels (color of pin, icon of button, label of button, etc) weren’t as intuitive as we imagined, and that we needed to be more explicit and consistent with how we choose the labels. We also needed to give more feedback to the user on what their current state is. Additionally, we assumed our app’s map interface/metaphor would give more information about its functionality than it actually did.
 
 When it came to our paper prototype we also developed a better understanding for its features and shortcomings through in-class activities where our prototype was critiqued by other groups in the class. The heuristic evaluation was such an activity. During the heuristic evaluation it for example became clear that the two button we had designed for saving a pin for later and posting a pin where easily confused. By writing ‘save’ on one and ‘pin’ on the other the evaluator were concerned that users would think ‘saving’ would mean the same as ‘pinning’, especially since the two buttons were placed right next to each other. We initially changed the label of the 'save' button and later on moved it away from the 'Pin' button.

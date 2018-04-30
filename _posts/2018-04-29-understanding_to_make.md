@@ -20,7 +20,7 @@ While it is possible to jot down a note about a cool thing you see in the wild, 
 [Here is a link to our testing process.]({{site.baseurl}}/2018/04/16/usability_tests/#test-process)
 
 ## Testing Results
-[Here is a link to our testing results.]({{site.baseurl}}/2018/04/16/usability_tests/#test-process)
+[Here is a link to our testing results.]({{site.baseurl}}/2018/04/16/usability_tests/#test-results)
 
 ## Final Paper Prototype
 [Here is a link to our final paper prototype.]({{site.baseurl}}/2018/04/05/paper_prototype/)
@@ -36,3 +36,14 @@ The design that we worked with undoubtedly changed as a result of iterative desi
 An interesting thought is whether or not more digital prototyping would have been beneficial. A digital prototype resembles a final product far more than a paper prototype ever can and hence, intuitively it may be thought that it would be a better indicator of whether a specific design is a well considered one. However, after performing usability tests and seeing users interact with our paper prototype it became clear that paper prototyping is an irreplaceable  step in the design process. A paper prototype allows for a very genuine interaction between the user and the tasks at hand and poor design choices can’t be hidden beneath ‘snazzy’ visual gimmicks. Overall it can certainly be said that the process that we followed influenced our design. In our case, these changes did not alter the fundamental layout of the application, but rather made our design easier to interact with (though perhaps ease of use is fundamental).
 
 ## Appendix
+_When introducing the app:_
+
+We are developing a mobile app that will allow people to share information based on location. We would like you to test whether this interface is useful and functional for someone who wants to ask a question or answer a question. Imagine this is the screen of your phone; interact with it as you would your own phone.
+
+_When introducing the tasks:_
+
+Imagine you see an animal while walking around and you don’t know what it is. You pull up our app and see this screen (home screen). **Please make a post with a question and attach an image of the animal to your current location.**
+
+Now imagine you are walking around an area you’re familiar with and want to answer someone’s question.  You decide to pull up our app. **Please respond to a post with an answer.**
+
+[Here is a link to our critical incidents.]({{site.baseurl}}/2018/04/16/usability_tests/#incidents)
