@@ -4,7 +4,7 @@ title: Paper Prototype
 ---
 ## Overview
 This is an overview of all the parts of our paper prototype. It is meant to be a mobile phone design.
-<a href="{{ site.baseurl }}/images/paper_prototype/1.JPG"><img src="{{ site.baseurl }}/images/paper_prototype/1.JPG" alt="Paper prototype image"></a>
+<a href="{{ site.baseurl }}/images/paper_prototype/1.jpg"><img src="{{ site.baseurl }}/images/paper_prototype/1.jpg" alt="Paper prototype image"></a>
 [Here is a link to a larger version.]({{ site.baseurl }}/images/paper_prototype/overview.png)
 
 Opening screen. The blue triangle represents current position. The overall background is a map of the area the user is currently in. Pins are visible to indicate other user activity.
@@ -83,7 +83,7 @@ Clicking Settings will allow a user to modify their default radius and privacy s
 <img src="{{ site.baseurl }}/images/paper_prototype/21a.JPG" alt="Paper prototype image">
 
 Hints and tips have been added and accessed by clicking the ? button.
-<img src="{{ site.baseurl }}/images/paper_prototype/22.JPG" alt="Paper prototype image">
+<img src="{{ site.baseurl }}/images/paper_prototype/22.jpg" alt="Paper prototype image">
 
 This is the user profile page that is shown when the user profile button is pressed.
 <img src="{{ site.baseurl }}/images/paper_prototype/23.JPG" alt="Paper prototype image">
