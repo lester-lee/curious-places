@@ -4,14 +4,16 @@ title: Digital Mockup
 ---
 ## Overview
 Pin is a mobile phone design. Here is an overview of our digital mockup, created using Balsamiq.
+
 ![Overview of Digital Mockup]({{ site.baseurl }}/images/digital_mockup/overview.png)
 ![Overview of Digital Mockup]({{ site.baseurl }}/images/digital_mockup/overview2.png)
 
 Opening screen. The blue arrow represents current position. The overall background is a map of the area the user is currently in. Pins are visible to indicate other user activity.
+
 ![Home Screen]({{ site.baseurl }}/images/digital_mockup/Home Screen.png)
 
 ## Task 1: Asking a Question
-Tapping on the button in the lower right corner opens a text box, where the user can write their post. 
+Tapping on the button in the lower right corner opens a text box, where the user can write their post.
 
 ![]({{ site.baseurl }}/images/digital_mockup/Create a Pin.png)
 
@@ -20,6 +22,7 @@ Clicking the TAGS button allows a user to add relevant tags to their post.
 ![]({{ site.baseurl }}/images/digital_mockup/Tags 1.png)
 
 Clicking the ATTACH button allows the user to upload other media, including photos, video, and sound bites. Media can be attached either by looking through items saved on the device or by capturing content immediately from the app.
+
 ![]({{ site.baseurl }}/images/digital_mockup/Attach 1.png)
 
 The files are uploaded. Clicking the X next to each file removes that file from the post, and the BACK button on the upload box returns the user to the text box.
@@ -31,6 +34,7 @@ Clicking the SAVE button allows the user to save a pin at a location for later e
 ![]({{ site.baseurl }}/images/digital_mockup/Save.png)
 
 Clicking the SETTINGS button allows a user to edit privacy and viewing options, including the radius of interaction and who the post is visible to. The user can manually edit the radius, but with a lower threshold of 10m and upper threshold of 5km.
+
 ![]({{ site.baseurl }}/images/digital_mockup/Settings 1.png)
 
 Clicking the “Who can view” menu shows the default options for viewing.
@@ -55,12 +59,15 @@ Clicking the MORE REPLIES button sends the user to a page of comments for that P
 ![]({{ site.baseurl }}/images/digital_mockup/Comments Only.png)
 
 Clicking the Sort By menu allows a user to sort the comments.
+
 ![]({{ site.baseurl }}/images/digital_mockup/Comments Only sort.png)
 
 Clicking on the TAGS button shows all tags associated with the post.
+
 ![]({{ site.baseurl }}/images/digital_mockup/Posted Tags.png)
 
 Clicking Respond will allow the user to respond to the Pin.
+
 ![]({{ site.baseurl }}/images/digital_mockup/Reply to Post.png)
 
 The user will then be redirected to the Pin screen, where they will be able to see their newly posted reply.

@@ -31,7 +31,7 @@ a {
 
 
 .bottom-nav{
-  background-color: rgba(24,24,24,.7);
+  background-color: rgba(24,24,24,.9);
 }
 
 .photo-caption{
@@ -43,7 +43,7 @@ a {
 }
 
 nav {
-  // background: #242424;
+  background-color: rgba(24,24,24,.2);
   position: fixed;
   margin: 0;
   padding: 5px 40px;
@@ -97,14 +97,9 @@ ul {
   background: url("{{site.baseurl}}/images/bootstrap/map1.png") no-repeat center center scroll;
   background-size: cover;
   img {
-    // max-width: 20vw;
     width: 100px;
     left: -40px;
     top: 25px;
-    // animation-name: up-down;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
     position: relative;
   }
 }
@@ -133,6 +128,9 @@ section {
     margin: 30px auto;
     text-align: center;
     font-size: 2em;
+  }
+  img {
+    max-height: 300px;
   }
 }
 
