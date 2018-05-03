@@ -5,7 +5,6 @@
 }
 
 body {
-  padding: 0 0 100px;
   margin: 0;
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
@@ -31,7 +30,7 @@ a {
 
 
 .bottom-nav{
-  background-color: rgba(24,24,24,.7);
+  background-color: rgba(24,24,24,.9);
 }
 
 .photo-caption{
@@ -43,7 +42,7 @@ a {
 }
 
 nav {
-  // background: #242424;
+  background-color: rgba(24,24,24,.2);
   position: fixed;
   margin: 0;
   padding: 5px 40px;
@@ -97,14 +96,9 @@ ul {
   background: url("{{site.baseurl}}/images/bootstrap/map1.png") no-repeat center center scroll;
   background-size: cover;
   img {
-    // max-width: 20vw;
     width: 100px;
     left: -40px;
     top: 25px;
-    // animation-name: up-down;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
     position: relative;
   }
 }
@@ -124,7 +118,6 @@ section {
   min-height: 50vh;
   width: 70vw;
   margin: 10px auto;
-  padding: 50px;
   padding: 50px calc(50% - 580px);
 
   h1,
@@ -133,6 +126,23 @@ section {
     margin: 30px auto;
     text-align: center;
     font-size: 2em;
+  }
+  img {
+    max-height: 300px;
+  }
+  video{
+    max-width: 600px;
+  }
+}
+
+#Overview{
+  .center{
+    width: 100%;
+    text-align: center;
+  }
+  img{
+    max-width: 600px;
+    margin: 20px 0;
   }
 }
 
@@ -190,5 +200,10 @@ section {
 footer {
   text-align: center;
   margin: 0;
-  margin-top: 30px;
+  margin-top: 100px;
+  background: #242424;
+  color: white;
+  bottom: 0;
+  position: relative;
+  height: 50px;
 }

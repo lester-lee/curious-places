@@ -5,15 +5,18 @@ title: Usablitiy Test Check-In
 ## Identified Issues
 ### Match User's Language: Severity (2)
 We realized that our labels for buttons were not as clearly marked and intuitive as we assumed they were. We have thus changed the text and the color of many of our buttons. For example, instead of using an "X" to return to the map, we use a red button labeled "BACK".
+
 ![Prototype Revision]({{ site.baseurl }}/images/usability/language1.jpg)
 
 ### Visibility: Severity (2)
 The system status was sometimes unclear, and the users weren't given enough feedback on what was happening. We have added progress bars and confirmation screens so that the user is more sure of what happens when they click on something.
+
 ![Prototype Revision]({{ site.baseurl }}/images/usability/language2.jpg)
 ![Prototype Revision]({{ site.baseurl }}/images/usability/visibility1.jpg)
 
 ### Error Prevention and Diagnosis: Severity (3)
 We did not include any help system previously, and users were left confused on exactly what they should be doing or how to do certain things. We have added a general help screen as well as hints and tips for various settings.
+
 ![Prototype Revision]({{ site.baseurl }}/images/usability/help1.jpg)
 ![Prototype Revision]({{ site.baseurl }}/images/usability/help2.jpg)
 
