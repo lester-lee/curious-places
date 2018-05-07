@@ -7,7 +7,8 @@
 body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
+  line-height: 1.4;
 }
 
 h1,
@@ -119,6 +120,7 @@ section {
   width: 70vw;
   margin: 10px auto;
   padding: 50px calc(50% - 580px);
+  padding-bottom: 0;
 
   h1,
   h2,
@@ -128,7 +130,8 @@ section {
     font-size: 2em;
   }
   img {
-    max-height: 300px;
+    max-height: 700px;
+    margin: auto;
   }
   video{
     max-width: 600px;
@@ -141,7 +144,7 @@ section {
     text-align: center;
   }
   img{
-    max-width: 600px;
+    max-width: 790px;
     margin: 20px 0;
   }
 }
