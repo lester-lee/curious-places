@@ -4,6 +4,7 @@ title: First Paper Prototype
 ---
 ### Overview
 This is an overview of all the parts of our paper prototype. It is meant to be a mobile phone design.
+
 <a href="{{ site.baseurl }}/images/old_paper_prototype/1.jpg"><img src="{{ site.baseurl }}/images/old_paper_prototype/1.jpg" alt="Paper prototype image"></a>
 
 [Here is a link to a larger version.]({{ site.baseurl }}/images/old_paper_prototype/1.jpg)
